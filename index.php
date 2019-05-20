@@ -12,7 +12,8 @@ use BotMan\Drivers\Web\WebDriver;
 
 $config = [
     'twilio' => [
-        'token' => '8da346ce4f8671d62e1b3d010d257886',
+         // Enter your token here
+        'token' => '#####',
     ]
 ];
 
